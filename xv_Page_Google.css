@@ -1,0 +1,20 @@
+.MenuGgl
+{
+    color: yellow;
+    font: 12px arial,sans-serif; line-height: 34px; height: 34px;
+}
+
+
+.Logodivers
+{
+	width: 10px;
+	height: 10px;
+}
+
+img src="Images/Google_colorlogo.png"
+
+<div id="conteneur">
+    <div class="MenuGgl">Element </div>
+    <div class="element 2">Element </div>
+    <div class="element 3">Element </div>
+</div>
